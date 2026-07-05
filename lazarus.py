@@ -49,7 +49,7 @@ def banner():
 ██║     ██╔══██║   ██╔╝ ██╔══██║██╔══██╗██║   ██║╚════██║
 ███████╗██║  ██║   ██║  ██║  ██║██║  ██║╚██████╔╝███████║
 ╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝{C.RESET}
-{C.DIM}  AD Attack Chain Automation · whynotplay1{C.RESET}
+{C.DIM}  AD Attack Chain Automation · DonTrebor1{C.RESET}
 {C.DIM}  Solo para entornos controlados y autorizados.{C.RESET}
 """)
 
