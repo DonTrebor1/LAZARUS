@@ -7,7 +7,7 @@
 ███████╗██║  ██║   ██║  ██║  ██║██║  ██║╚██████╔╝███████║
 ╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
 
-AD Attack Chain Automation · whynotplay1
+AD Attack Chain Automation · DonTrebor1
 Solo para entornos controlados y autorizados.
 """
 
