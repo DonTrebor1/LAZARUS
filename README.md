@@ -138,6 +138,6 @@ Este software es exclusivamente para uso en entornos de práctica controlados y 
 
 ## Autor
 
-**whynotplay1** · Offensive Security · ISO/IEC 27001:2022 LA · ISO/IEC 42001:2023 LA
+**DonTrebor1** · Offensive Security · ISO/IEC 27001:2022 LA · ISO/IEC 42001:2023 LA
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-whynotplay1-9fef00?logo=hackthebox)](https://app.hackthebox.com/profile/whynotplay1)
