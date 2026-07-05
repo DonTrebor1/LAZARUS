@@ -1,0 +1,6 @@
+lazarus_output/
+*.pot
+*.hash
+__pycache__/
+*.pyc
+.DS_Store

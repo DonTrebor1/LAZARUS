@@ -1,0 +1,6 @@
+# LAZARUS no tiene dependencias de Python externas.
+# Solo Python 3.10+ estándar.
+# Herramientas externas (instalar en Kali/Parrot):
+#
+# sudo apt install nmap netexec impacket-scripts evil-winrm \
+#                  hashcat bloodhound-python certipy-ad
